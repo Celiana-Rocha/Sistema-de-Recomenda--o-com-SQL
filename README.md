@@ -18,6 +18,10 @@ Este projeto implementa um sistema de recomendação de filmes baseado em SQL.
 - `queries.sql`: Consultas avançadas, incluindo recomendações e análises.
 - `melhorias.md`: Sugestões para expansão do sistema.
 
+## Tecnologias Utilizadas 🕹
+![SQL](https://img.shields.io/badge/sql-483d8b.svg?style=for-the-badge&logo=sql&logoColor=white)
+
+
 ## Como Executar 🤓
 1. **Configuração do Banco de Dados:**
    - Use uma ferramenta como MySQL, PostgreSQL ou SQLite.
